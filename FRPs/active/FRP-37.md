@@ -6,6 +6,7 @@ created: 2023-08-27
 status: active
 ---
 
+# Automated DSIC mechanism design 
 
 # Intro
 

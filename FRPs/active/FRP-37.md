@@ -6,7 +6,7 @@ created: 2023-08-27
 status: active
 ---
 
-# Automated mechanism design using generative AI 
+# Automated Mechanism Design Using Generative AI 
 
 # Intro
 

@@ -1,12 +1,12 @@
 ---
 id: 37
-title: Automated DSIC mechanism design 
+title: Automated mechanism design using generative AI 
 team: Gil Litvin (Technion), Nadav Rubinstein (Technion), Shlomi Gibly (BGU) Xinyuan Sun (Flashbots)
 created: 2023-08-27
 status: active
 ---
 
-# Automated DSIC mechanism design 
+# Automated mechanism design using generative AI 
 
 # Intro
 

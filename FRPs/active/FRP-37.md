@@ -45,4 +45,4 @@ Seller address: the address that will send the proceedings of the trade
 ## References
 
 - [Optimal Auctions Through
-Deep Learning](https://parkes.seas.harvard.edu/files/parkes/files/dutting_cacm21.pdf) by sxysun. 
+Deep Learning](https://parkes.seas.harvard.edu/files/parkes/files/dutting_cacm21.pdf) by  Paul Dütting. 
